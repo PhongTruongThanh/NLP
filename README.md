@@ -15,7 +15,7 @@ https://github.com/Neyung/NLP/assets/120383829/b184b920-c3f3-4217-b4b9-3bd167be5
 
 
 # RESULTS
-To view the report in detail, please visit (Note: The content of the report is written entirely in Vietnamese): [[Here](https://drive.google.com/file/d/1vMklTesaLdIH5AsfotUOKBHWEVllxpg5/view?usp=sharing)]
+To view the report in detail, please visit (Note: The content of the report is written entirely in Vietnamese): [[Here](https://drive.google.com/file/d/16_DZ2n4Ep4LlCgI3I1gxavJqbMnSs2dE/view?usp=sharing)]
 
 ---
 ![image](https://github.com/Neyung/NLP/assets/120383829/c03e2f83-7dec-4b35-8bd7-09870b2a376b)
