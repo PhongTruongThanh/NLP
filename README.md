@@ -13,11 +13,6 @@ https://github.com/Neyung/NLP/assets/120383829/b184b920-c3f3-4217-b4b9-3bd167be5
 
 ---
 
-In addition, we also provide some additional steps to install the Maxent and LSTM algorithms below:
-```
-$ Jupyter Notebook LSTM.ipynb
-$ Jupyter Notebook MAXENT.ipynb
-```
 
 # RESULTS
 To view the report in detail, please visit (Note: The content of the report is written entirely in Vietnamese): [[Here](https://drive.google.com/file/d/1vMklTesaLdIH5AsfotUOKBHWEVllxpg5/view?usp=sharing)]
