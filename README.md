@@ -6,7 +6,6 @@ This is our final project for the Natural Language Processing course at the Univ
 ---
 
 # DEMO 
-To be able to use the interface, please use: NLP.py - [[Here](https://github.com/Neyung/NLP/blob/main/UI/UI/NLP.py)]
 
 ---
 
@@ -19,7 +18,6 @@ In addition, we also provide some additional steps to install the Maxent and LST
 $ Jupyter Notebook LSTM.ipynb
 $ Jupyter Notebook MAXENT.ipynb
 ```
-To be able to see the detailed source code here: [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j5ndmvt5_BuLxIUXf4DKwBA5vVR09xqK?usp=sharing)
 
 # RESULTS
 To view the report in detail, please visit (Note: The content of the report is written entirely in Vietnamese): [[Here](https://drive.google.com/file/d/1vMklTesaLdIH5AsfotUOKBHWEVllxpg5/view?usp=sharing)]
